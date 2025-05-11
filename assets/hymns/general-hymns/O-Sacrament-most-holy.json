@@ -1,18 +1,53 @@
 {
   "title": "O SACRAMENT MOST HOLY",
-  "index": 139,
-  "content": {
-    "type": "refrain_and_verses",
-    "metadata": {
-      "composer": "Irvin Udulutsch"
+  "sections": [
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "O sacrament most holy, O sacrament divine,",
+        "All praise and all thanksgiving Be every moment thine"
+      ]
     },
-    "refrain": "O sacrament most holy, O sacrament divine,\nAll praise and all thanksgiving Be every moment thine",
-    "verses": [
-      "O Jesus, we adore you, who, in your love divine,\nConceal your mighty Godhead In forms of bread and wine.",
-      "O Jesus, we adore you, Our victim and our priest,\nWhose precious blood and body Become our sacred feast.",
-      "O Jesus, we adore you, Our Savior and our King,\nAnd with the saints and angels Our humble homage bring.",
-      "O Jesus, we adore you; Come, live in us, we pray,\nThat all our thoughts and actions Be yours alone today.",
-      "O come, all you who labor In sorrow and in pain;\nCome,eat this bread from heaven; Your peace and strength regain."
-    ]
-  }
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "O Jesus, we adore you, who, in your love divine,",
+        "Conceal your mighty Godhead In forms of bread and wine."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "O Jesus, we adore you, Our victim and our priest,",
+        "Whose precious blood and body Become our sacred feast."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "O Jesus, we adore you, Our Savior and our King,",
+        "And with the saints and angels Our humble homage bring."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 4",
+      "content": [
+        "O Jesus, we adore you; Come, live in us, we pray,",
+        "That all our thoughts and actions Be yours alone today."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 5",
+      "content": [
+        "O come, all you who labor In sorrow and in pain;",
+        "Come, eat this bread from heaven; Your peace and strength regain."
+      ]
+    }
+  ]
 }

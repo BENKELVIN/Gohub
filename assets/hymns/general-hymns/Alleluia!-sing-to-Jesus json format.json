@@ -1,0 +1,57 @@
+{
+  "title": "Alleluia! Sing to Jesus",
+  "author": "William Chatterton Dix (1837–1898)",
+  "tune": "Hyfrydol (Rowland Hugh Prichard, 1844)",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Alleluia! sing to Jesus! His the scepter, his the throne;",
+        "Alleluia! his the triumph, his the victory alone;",
+        "Hark! The songs of peaceful Zion thunder like the seas abroad,",
+        "Alleluia! alleluia! let the church proclaim his word!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Alleluia! not as strangers are we left in sorrow now;",
+        "Alleluia! he is near us, faith believes, nor questions how;",
+        "Through the cloud and through the shadow, through the waters, on we go;",
+        "Alleluia! alleluia! alleluia! let us go!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Alleluia! bread of heaven, here on earth our strength renew;",
+        "Alleluia! here the armor to the faithful soul is true;",
+        "Alleluia! bread of angels, food to pilgrims here below,",
+        "Alleluia! alleluia! alleluia! mercy show!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 4",
+      "content": [
+        "Alleluia! king eternal, thee the Lord of lords we own;",
+        "Alleluia! born of Mary, earth thy footstool, heaven thy throne;",
+        "Thou within the veil hast entered, robed in flesh our great High Priest,",
+        "Alleluia! alleluia! alleluia! eternal peace!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 5",
+      "content": [
+        "Alleluia! sing to Jesus! Unto Christ the Lord acclaim;",
+        "Alleluia! highest glory to the Father, Son, and Flame;",
+        "Evermore and evermore sing the praises of his name,",
+        "Alleluia! alleluia! alleluia! praise the Lamb!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "THE LORD IS MY SHEPHERD",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "The Lord’s my Shepherd, I’ll not want;",
+        "He makes me down to lie",
+        "In pastures green; He leadeth me",
+        "The quiet waters by."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "My soul He doth restore again;",
+        "And me to walk doth make",
+        "In paths of truth and righteousness,",
+        "For His own name’s sake."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Yea, though I walk in death’s dark vale,",
+        "Yet will I fear none ill;",
+        "For Thou art with me, and Thy rod",
+        "And staff me comfort still."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 4",
+      "content": [
+        "My table Thou hast furnishèd",
+        "In presence of my foes;",
+        "My head Thou dost with oil anoint,",
+        "And cup to overflowing flows."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": []
+    }
+  ]
+}

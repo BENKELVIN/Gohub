@@ -1,13 +1,41 @@
 {
-  "title": "PS. 127 O BLESSED ARE THOSE WHO FEAR THE LORD",
-  "index": 101,
-  "content": {
-    "type": "hymn_with_image_and_verses",
-    "images": [
-      "../../../images/o-blessed-are-those-who-fear-the-lord.jpeg"
-    ],
-    "verses": [
-      "By the labour of your hands you shall eat\nYou will be happy and prosper\nYour wife like a fruitful vine in heart of your house\nYour children like the shoots of the olive, around your table"
-    ]
-  }
+  "title": "O BLESSED ARE THOSE WHO FEAR THE LORD",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "O blessed are those who fear the Lord,",
+        "Who walk in his ways!",
+        "You shall eat the fruit of your hands;",
+        "Blessed shall you be, and prosper always!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Your wife will be like a fruitful vine",
+        "Within your house;",
+        "Your children like olive plants",
+        "Around your table."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Behold, thus shall the man be blessed",
+        "Who fears the Lord.",
+        "The Lord will bless you from Zion;",
+        "May you see the prosperity of Jerusalem",
+        "All the days of your life!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": []
+    }
+  ]
 }

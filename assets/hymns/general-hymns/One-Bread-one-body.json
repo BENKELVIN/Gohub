@@ -1,16 +1,44 @@
 {
   "title": "ONE BREAD, ONE BODY",
-  "index": 120,
-  "content": {
-    "type": "verses_with_intro",
-    "intro": [
-      "One bread, one body, one Lord of all,\none cup of blessing which we bless.",
-      "And we, though many throughout the earth,\nwe are one body in this one Lord."
-    ],
-    "verses": [
-      "Gentile or Jew, servant or free, woman or man, no more.",
-      "Many the gift, many the works, one in the Lord of all.",
-      "Grain for the fields, scattered and grown, gathered to one, for all."
-    ]
-  }
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Intro",
+      "content": [
+        "One bread, one body, one Lord of all,",
+        "One cup of blessing which we bless.",
+        "And we, though many throughout the earth,",
+        "We are one body in this one Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Gentile or Jew, servant or free,",
+        "Woman or man, no more."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Many the gift, many the works,",
+        "One in the Lord of all."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Grain for the fields, scattered and grown,",
+        "Gathered to one, for all."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": []
+    }
+  ]
 }

@@ -1,0 +1,47 @@
+{
+  "title": "Amazing Grace",
+  "author": "John Newton (Anglican clergyman, 1725–1807)",
+  "tune": "New Britain (Traditional American folk melody)",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Amazing grace! (how sweet the sound)",
+        "That saved a wretch like me!",
+        "I once was lost, but now am found,",
+        "Was blind, but now I see."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "'Twas grace that taught my heart to fear,",
+        "And grace my fears relieved;",
+        "How precious did that grace appear,",
+        "The hour I first believed!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Through many dangers, toils, and snares,",
+        "We have already come;",
+        "'Twas grace hath brought us safe thus far,",
+        "And grace will lead us home."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 4",
+      "content": [
+        "When we've been there ten thousand years,",
+        "Bright shining as the sun,",
+        "We've no less days to sing God's praise",
+        "Than when we first begun."
+      ]
+    }
+  ]
+}
